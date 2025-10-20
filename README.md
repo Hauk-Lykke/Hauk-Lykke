@@ -97,42 +97,40 @@ About myself: To be updated.
 
 ### 🧰 Programming languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
-  <div style="align: left;">
-    <img align="center" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">C#</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">Python</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">C++</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">Git</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">HTML</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">CSS</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">JavaScript</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      <p>C#</p>
+    </td>
+    <td align="center">
+      <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+      <p>Python</p>
+    </td>
+    <td align="center">
+      <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+      <p>C++</p>
+    </td>
+    <td align="center">
+      <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <p>Git</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+      <p>HTML</p>
+    </td>
+    <td align="center">
+      <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+      <p>CSS</p>
+    </td>
+    <td align="center">
+      <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <p>JavaScript</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
