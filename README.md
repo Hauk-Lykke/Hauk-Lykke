@@ -1,9 +1,10 @@
 # Hauk-Morten Lykke
 
-**`Sivilingeniør/Produktutvikler`**
+**`Product developer/Mechanical engineer`**
 
-Tekst om meg selv.
----
+About myself: To be updated.
+
+
 ## Engineering projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
@@ -15,14 +16,14 @@ Tekst om meg selv.
   </div>
 
   <div style="text-align: center;">
-    <img src="photos/FEM.png" alt="LabVIEW" style="width: 200px; object-fit: cover; border-radius: 5px;" />
+    <img src="photos/FEM.png" alt="LabVIEW" style="width: 500px; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       Finite Element Method (FEM) analysis of a machine part. Where are the tensions highest?
     </p>
   </div>
   
   <div style="text-align: center;">
-    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 600px; object-fit: cover; border-radius: 5px;" />
+    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 500px; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder.
     </p>
@@ -135,11 +136,14 @@ Tekst om meg selv.
 
 <br />
 
-### Ingeniørverktøy
+### Engineering tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
   <div style="text-align: center;">
     <img align="center" alt="Revit" width="50px" src="icons/autodesk-revit.svg" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">Revit</p>
+  </div>
+  <div style="text-align: center;">
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">More apps coming...</p>
   </div>
 </div>
