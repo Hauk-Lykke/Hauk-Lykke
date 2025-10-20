@@ -6,7 +6,7 @@ Tekst om meg selv.
 ---
 ## Engineering projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="display: grid; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
  
   <div style="text-align: center;">
     <img src="photos/sykkelbremser.png" alt="CFD Simulation 2" style="width: 500px; object-fit: cover; border-radius: 5px;" />
@@ -47,7 +47,7 @@ Tekst om meg selv.
 
 ## Product design
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="display: grid; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
   <div style="text-align: center;">
     <img src="photos/LabVIEW.JPG" alt="LabVIEW" style="width: 600px; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
@@ -66,7 +66,7 @@ Tekst om meg selv.
 
 In addition to my engineering degree, I have studied art at the Seattle Central Community College. Not everything an engineer does needs to be calculated too, some of it can be all fantasy!
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="display: grid; flex-wrap: wrap; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
   <div style="text-align: center;">
     <img src="photos/romskip.jpg" alt="Romskip" style="width: page-width;  object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
