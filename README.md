@@ -4,66 +4,142 @@
 
 Tekst om meg selv.
 ---
+## Engineering projects
 
-## Ingeniørprosjekter
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+ 
 
+  <div style="text-align: center;">
+    <img src="photos/FEM.png" alt="LabVIEW" style="height: 200px; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      Finite Element Method(FEM) analysis of machine part.
+    </p>
+  </div>
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
-	<img src="photos/Hoverbike_render.jpg" alt="Hoverbike" style="height: 500px; object-fit: cover; border-radius: 5px;" />
-	<img src="photos/LabVIEW.JPG" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
-	<img src="photos/CFD_1.png" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
-	<img src="photos/CFD_2.png" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+  <div style="text-align: center;">
+    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="height: 200px; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder.
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="photos/sykkelbremser.png" alt="CFD Simulation 2" style="width: 500px; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      3D-rendering of the braking system of a bicycle. Designed and visualized in Siemens NX.
+    </p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder. The color indicates turbulence intensity. The color scale is chosen for its ability to convey understandable meaning to the human brain. Only two colors present, strong color indicates an extreme and the specific values for which the values turn red are chosen on purpose.
+    </p> 
+  </div>
+
+  <div style="text-align: center;">
+    <img src="photos/ifc_model.png" alt="CFD Simulation 2" style="width: page-width; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      If you have never worked with a building project, you'd be surprised how much space the ventilation takes!
+    </p>
+  </div>
 </div>
 
-## Kunstprosjekter
+## Product design
 
-I tillegg til ingeniørutdannelsen har jeg studert kunst ved Seattle Central Community College. Her er noen eksempler fra mitt arbeid der.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="text-align: center;">
+    <img src="photos/LabVIEW.JPG" alt="LabVIEW" style="width: page-width; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      LabVIEW interface used for data acquisition in my master thesis. Aesthetics wasn't a priority, this is purely functional. What am I logging from the wind tunnel here?
+    </p>
+  </div>
+  <div style="text-align: center;">
+    <img src="photos/styrepanel_autonom-sykeseng.png" alt="LabVIEW" style="width: page-width; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      A student project in which we were developing an autonomous hospital bed. The bed would be manned by a nurse or portier when containing a patient, and then be driving autonomously around when being moved between patients. When controlled manually, the interface would need to be intuitive. We found out the buttons were not ergonomically placed in the first attempt, so in this prototype we have already rearranged all buttons and functions three times in 15 minutes, pretending to be rolling around with a patient. 
+    </p>
+  </div>
+</div>
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
-	<img src="photos\romskip.jpg" alt="Image 3" style="height: 150px; object-fit: cover; border-radius: 5px; margin-right: 10px;" />
-	<img src="photos/selvportrett.jpg" style="height: 150px; object-fit: cover; border-radius: 5px; margin-right: 10px;" />
-	<img src="photos/skalle_svart-hvitt.jpg" style="height: 150px; object-fit: cover; border-radius: 5px; margin-right: 10px;" />
+## Art and design-prosjects
+
+In addition to my engineering degree, I have studied art at the Seattle Central Community College. Not everything an engineer does needs to be calculated too, some of it can be all fantasy!
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="text-align: center;">
+    <img src="photos/romskip.jpg" alt="Romskip" style="height: 450px; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      A conceptual drawing of a spaceship. Pastel colors.
+    </p>
+  </div>
+ <div style="text-align: center;">
+    <img src="photos/Hoverbike_render.jpg" alt="Hoverbike" style="height: 200px; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      A hoverbike. I and a friend applied to Red Bull for funding to build this as a hobby project. This is before we calculated anything, it's all freehand modeling.
+    </p>
+  </div>
+  <div style="text-align: center;">
+    <img src="photos/selvportrett.jpg" alt="Self portrait" style="object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      A self-portrait from my art studies. Coal on paper.
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="photos/skalle_svart-hvitt.jpg" alt="Skull black and white" style="object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      A black-and-white sketch of various items. Coal on paper. The sheet was first covered in coal, the actual drawing was done by eraser, drawing the light.
+    </p>
+  </div>
 </div>
 
 ### 🧰 Programmeringsspråk
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
- 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="text-align: center;">
+    <img align="center" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">C#</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">Python</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img align="center" alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">C++</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img align="center" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">Git</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img align="center" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">HTML</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img align="center" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">CSS</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">JavaScript</p>
+  </div>
+</div>
 
 <br />
 
 ### Ingeniørverktøy
 
-<img align="left" alt="Revit" width="30px" style="padding-right:10px;" src="icons/autodesk-revit.svg" />
-
-<br />
-
-#
-<!--
-<details>
- <summary><h3>Utfyllende om meg selv</h3></summary>
-   Her kan det stå tekst som kan utviders.
-
-   
-<!--
-**Hauk-Lykke/Hauk-Lykke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
--->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="text-align: center;">
+    <img align="center" alt="Revit" width="50px" src="icons/autodesk-revit.svg" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">Revit</p>
+  </div>
+</div>
