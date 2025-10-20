@@ -5,17 +5,25 @@
 Tekst om meg selv.
 ---
 
-## Studentprosjekter
+## Ingeniørprosjekter
 
 
-<div display: flex; overflow-x: auto; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;>
-	<img src="photos\20251020_212533.jpg" alt="Image 1" style="height: 150px; object-fit: cover; border-radius: 5px;" />
-	<img src="photos/20251020_212731.jpg" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
-	<img src="photos/20251020_212853.jpg" alt="Image 3" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+	<img src="photos/Hoverbike_render.jpg" alt="Hoverbike" style="height: 500px; object-fit: cover; border-radius: 5px;" />
+	<img src="photos/LabVIEW.JPG" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+	<img src="photos/CFD_1.png" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+	<img src="photos/CFD_2.png" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
 </div>
 
+## Kunstprosjekter
 
+I tillegg til ingeniørutdannelsen har jeg studert kunst ved Seattle Central Community College. Her er noen eksempler fra mitt arbeid der.
 
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+	<img src="photos\romskip.jpg" alt="Image 3" style="height: 150px; object-fit: cover; border-radius: 5px; margin-right: 10px;" />
+	<img src="photos/selvportrett.jpg" style="height: 150px; object-fit: cover; border-radius: 5px; margin-right: 10px;" />
+	<img src="photos/skalle_svart-hvitt.jpg" style="height: 150px; object-fit: cover; border-radius: 5px; margin-right: 10px;" />
+</div>
 
 ### 🧰 Programmeringsspråk
 
@@ -59,5 +67,3 @@ Here are some ideas to get you started:
 -->
 
 -->
-
-
