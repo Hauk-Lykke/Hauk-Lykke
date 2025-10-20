@@ -15,25 +15,26 @@ Tekst om meg selv.
   </div>
 
   <div style="text-align: center;">
-    <img src="photos/FEM.png" alt="LabVIEW" style="width: 100%; object-fit: cover; border-radius: 5px;" />
+    <img src="photos/FEM.png" alt="LabVIEW" style="width: 20%; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
-      Finite Element Method (FEM) analysis of a machine part.
+      Finite Element Method (FEM) analysis of a machine part. Where are the tensions highest?
+    </p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 70%; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder.
     </p>
   </div>
 
   <div style="text-align: center;">
-    <img src="photos/Artery_test_20250114.png" alt="CFD Simulation 2" style="width: 100%; object-fit: cover; border-radius: 5px;" />
+    <img src="photos/Artery_test_20250114.png" alt="Algorithmic design plot" style="width: 100%; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at GitHub under the Artery repository.
     </p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">
-      Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder.
-    </p>
-  </div>
 
   <div style="text-align: center;">
     <img src="photos/ifc_model.png" alt="CFD Simulation 2" style="width: 100%; object-fit: cover; border-radius: 5px;" />
