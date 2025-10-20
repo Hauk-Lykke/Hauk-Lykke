@@ -97,43 +97,13 @@ About myself: To be updated.
 
 ### 🧰 Programming languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
-  <div style="align: left;">
-    <img align="center" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">C#</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">Python</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">C++</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">Git</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">HTML</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">CSS</p>
-  </div>
-
-  <div style="align: left;">
-    <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <p style="margin-top: 10px; font-size: 14px; color: #666;">JavaScript</p>
-  </div>
-</div>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" />
 <br />
 
 ### Engineering tools
