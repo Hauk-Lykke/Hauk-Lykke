@@ -15,14 +15,14 @@ Tekst om meg selv.
   </div>
 
   <div style="text-align: center;">
-    <img src="photos/FEM.png" alt="LabVIEW" style="width: 20%; object-fit: cover; border-radius: 5px;" />
+    <img src="photos/FEM.png" alt="LabVIEW" style="width: 200px; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       Finite Element Method (FEM) analysis of a machine part. Where are the tensions highest?
     </p>
   </div>
   
   <div style="text-align: center;">
-    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 70%; object-fit: cover; border-radius: 5px;" />
+    <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 600px; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder.
     </p>
