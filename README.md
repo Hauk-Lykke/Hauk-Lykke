@@ -22,6 +22,12 @@ Tekst om meg selv.
       Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder.
     </p>
   </div>
+  <div style="text-align: center;">
+    <img src="photos/Artery_test_20250114.png" alt="CFD Simulation 2" style="width: page-width; object-fit: cover; border-radius: 5px;" />
+    <p style="margin-top: 10px; font-size: 14px; color: #666;">
+      Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at github under the Artery repository.
+    </p>
+  </div>
 
   <div style="text-align: center;">
     <img src="photos/sykkelbremser.png" alt="CFD Simulation 2" style="width: 500px; object-fit: cover; border-radius: 5px;" />
@@ -43,6 +49,8 @@ Tekst om meg selv.
       If you have never worked with a building project, you'd be surprised how much space the ventilation takes!
     </p>
   </div>
+
+
 </div>
 
 ## Product design
@@ -94,7 +102,7 @@ In addition to my engineering degree, I have studied art at the Seattle Central 
   </div>
 </div>
 
-### 🧰 Programmeringsspråk
+### 🧰 Programming languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
   <div style="text-align: center;">
