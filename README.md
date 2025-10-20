@@ -97,7 +97,7 @@ About myself: To be updated.
 
 ### 🧰 Programming languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
   <div style="text-align: center;">
     <img align="center" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">C#</p>
