@@ -8,6 +8,14 @@ Tekst om meg selv.
 ## Studentprosjekter
 
 
+<div display: flex; overflow-x: auto; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;>
+	<img src="photos\20251020_212533.jpg" alt="Image 1" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+	<img src="photos/20251020_212731.jpg" alt="Image 2" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+	<img src="photos/20251020_212853.jpg" alt="Image 3" style="height: 150px; object-fit: cover; border-radius: 5px;" />
+</div>
+
+
+
 
 ### 🧰 Programmeringsspråk
 
@@ -24,7 +32,7 @@ Tekst om meg selv.
 
 ### Ingeniørverktøy
 
-<img align="left" alt="Revit" width="30px" style="padding-right:10px;" src="img/autodesk-revit.svg" />
+<img align="left" alt="Revit" width="30px" style="padding-right:10px;" src="icons/autodesk-revit.svg" />
 
 <br />
 
