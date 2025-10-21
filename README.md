@@ -65,7 +65,7 @@ About myself: To be updated.
  <p align="center">
     <img src="photos/Artery_test_20250114.png" alt="Algorithmic design plot" style=" width: 80%; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
-      Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at GitHub under the [Artery repository](https://github.com/COWI-A-S/Artery).
+      Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at GitHub under the <a href="https://github.com/COWI-A-S/Artery">Artery repository</a>().
     </p>
   </p>
 
