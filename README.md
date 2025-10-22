@@ -7,13 +7,14 @@ About myself: To be updated.
 
 ## Art and design projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<p style="align:center; height:100px">
   <div style="text-align: center;">
     <img src="photos/romskip.jpg" alt="Romskip" style="width: 100%; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       A conceptual drawing of a "spaceship". The drawing was part of a student project where we trained on using colored large format paper with pastel colors(american equivalent to A0 perhaps?). I made a series of four pictures themed by misplaces crafts/vehicles, in this case an old fashioned sailing ship in space.
     </p>
   </div>
+</p>
 
   <div style="text-align: center;">
     <img src="photos/Hoverbike_render.jpg" alt="Hoverbike" style="width: 100%; object-fit: cover; border-radius: 5px;" />
@@ -62,7 +63,7 @@ About myself: To be updated.
     </p>
   </div>
 
- <p align="center">
+ <p style="align=center">
     <img src="photos/Artery_test_20250114.png" alt="Algorithmic design plot" style=" width: 80%; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at GitHub under the <a href="https://github.com/COWI-A-S/Artery">Artery repository</a>.
