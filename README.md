@@ -7,14 +7,13 @@ About myself: To be updated.
 
 ## Engineering projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; height: 1000px">
   <div style="text-align: center;">
     <img src="photos/sykkelbremser.png" alt="CFD Simulation 2" style="width: 100%; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
       3D-rendering of the braking system of a bicycle. Designed and visualized in Siemens NX. We found a user group, investigated their needs, and finally designed and built a bicycle around these needs.
     </p>
   </div>
-
   <div style="text-align: center;">
     <img src="photos/FEM.png" alt="LabVIEW" style="width: 500px; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
@@ -90,7 +89,7 @@ About myself: To be updated.
   <div style="text-align: center;">
     <img src="photos/skalle_svart-hvitt.jpg" alt="Skull black and white" style="width: 100%; object-fit: cover; border-radius: 5px;" />
     <p style="margin-top: 10px; font-size: 14px; color: #666;">
-      A black-and-white sketch of various items. Coal on paper. The sheet was first covered in coal, the actual drawing was done by eraser, drawing the light.
+      A black-and-white drawing of various items. Coal on paper. The sheet was first covered in coal, the actual drawing was done by eraser, drawing the light.
     </p>
   </div>
 </div>
