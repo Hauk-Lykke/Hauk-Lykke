@@ -108,7 +108,6 @@ About myself: To be updated.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" />
 
-(If these aren't in a neat row, it's because this list was created after 1 am in the night. Short deadline..)
 <br />
 
 ### Engineering tools
