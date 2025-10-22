@@ -13,8 +13,11 @@ About myself: To be updated.
       A conceptual drawing of a "spaceship". The drawing was part of a student project where we trained on using colored large format paper with pastel colors(american equivalent to A0 perhaps?). I made a series of four pictures themed by misplaces crafts/vehicles, in this case an old fashioned sailing ship in space.
     </p>
 </p>
-<div style="height:100px">
-</div>
+
+
+
+
+
 
   <div style="text-align: center;">
     <img src="photos/Hoverbike_render.jpg" alt="Hoverbike" style="width: 100%; object-fit: cover; border-radius: 5px;" />
