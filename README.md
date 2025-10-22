@@ -7,89 +7,97 @@ About myself: To be updated.
 
 ## Art and design projects
 
-<p style="text-align: center;">
-    <img src="photos/romskip.jpg" alt="Romskip" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-    <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-      A conceptual drawing of a "spaceship". The drawing was part of a student project where we trained on using colored large format paper with pastel colors(american equivalent to A0 perhaps?). I made a series of four pictures themed by misplaces crafts/vehicles, in this case an old fashioned sailing ship in space drawn on dark blue paper.
-    </p>
-</p>
+![Romskip](photos/romskip.jpg)
 
-  <div style="text-align: center;">
-    <img src="photos/Hoverbike_render.jpg" alt="Hoverbike" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-    <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-      A hoverbike. I and a friend applied to Red Bull for funding to build this as a hobby project. This is before we calculated anything, it's all freehand modeling.
-    </p>
-  </div>
+*A conceptual drawing of a "spaceship". The drawing was part of a student project where we trained on using colored large format paper with pastel colors(american equivalent to A0 perhaps?). I made a series of four pictures themed by misplaces crafts/vehicles, in this case an old fashioned sailing ship in space drawn on dark blue paper.*
 
-  <div style="text-align: center;">
-    <img src="photos/selvportrett.jpg" alt="Self portrait" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-    <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-      A self-portrait from my art studies. Coal on paper.
-    </p>
-  </div>
+<br>
+<br>
+<br>
 
-  <div style="text-align: center;">
-    <img src="photos/skalle_svart-hvitt.jpg" alt="Skull black and white" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-    <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-      A black-and-white drawing of various items. Coal on paper. The sheet was first covered in coal, the actual drawing was done by eraser, drawing the light.
-    </p>
-  </div>
+![Hoverbike](photos/Hoverbike_render.jpg)
 
+*A hoverbike. I and a friend applied to Red Bull for funding to build this as a hobby project. This is before we calculated anything, it's all freehand modeling.*
+
+<br>
+<br>
+<br>
+
+![Self portrait](photos/selvportrett.jpg)
+
+*A self-portrait from my art studies. Coal on paper.*
+
+<br>
+<br>
+<br>
+
+![Skull black and white](photos/skalle_svart-hvitt.jpg)
+
+*A black-and-white drawing of various items. Coal on paper. The sheet was first covered in coal, the actual drawing was done by eraser, drawing the light.*
+
+<br>
+<br>
+<br>
 
 ## Engineering projects
 
-<div style="text-align: center;">
-  <img src="photos/sykkelbremser.png" alt="CFD Simulation 2" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    3D-rendering of the braking system of a bicycle. Designed and visualized in Siemens NX. We found a user group, investigated their needs, and finally designed and built a bicycle around these needs.
-  </p>
-</div>
+![Bicycle braking system](photos/sykkelbremser.png)
 
-<div style="text-align: center;">
-  <img src="photos/FEM.png" alt="LabVIEW" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    Finite Element Method (FEM) analysis of a machine part. Where are the tensions highest?
-  </p>
-</div>
+*3D-rendering of the braking system of a bicycle. Designed and visualized in Siemens NX. We found a user group, investigated their needs, and finally designed and built a bicycle around these needs.*
 
-<div style="text-align: center;">
-  <img src="photos/CFD_1.png" alt="CFD Simulation 1" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder simulating a tent in high winds. Note the turbulent regions in the wake. The colorscale when showing such a simulation is important, a value perceived by color can easily be misleading if the colorscale is badly chosen. It can even be unreadable if conditions like color blindness or black/white paper printouts occur.
-  </p>
-</div>
+<br>
+<br>
+<br>
 
-<p style="text-align: center;">
-  <img src="photos/Artery_test_20250114.png" alt="Algorithmic design plot" style="width: 80%;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at GitHub under the <a href="https://github.com/COWI-A-S/Artery">Artery repository</a>.
-  </p>
-</p>
+![FEM Analysis](photos/FEM.png)
 
-<div style="text-align: center;">
-  <img src="photos/ifc_model.png" alt="CFD Simulation 2" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    This is the combined heating, ventilation and sanitary installations of a flight hangar with administration building. I designed and engineered most of the ventilation (blue and yellow ducts) and the sanitary plumbing (green).If you have never worked with a building project, you'd be surprised how much space the ventilation takes up! 
-  </p>
-</div>
+*Finite Element Method (FEM) analysis of a machine part. Where are the tensions highest?*
+
+<br>
+<br>
+<br>
+
+![CFD Simulation](photos/CFD_1.png)
+
+*Computational Fluid Dynamics (CFD) simulation showing airflow over a half-cylinder simulating a tent in high winds. Note the turbulent regions in the wake. The colorscale when showing such a simulation is important, a value perceived by color can easily be misleading if the colorscale is badly chosen. It can even be unreadable if conditions like color blindness or black/white paper printouts occur.*
+
+<br>
+<br>
+<br>
+
+![Algorithmic design plot](photos/Artery_test_20250114.png)
+
+*Why are we still drawing out every single ventilation duct manually if we could be doing this algorithmically by code? Check out my work at GitHub under the [Artery repository](https://github.com/COWI-A-S/Artery).*
+
+<br>
+<br>
+<br>
+
+![IFC Model](photos/ifc_model.png)
+
+*This is the combined heating, ventilation and sanitary installations of a flight hangar with administration building. I designed and engineered most of the ventilation (blue and yellow ducts) and the sanitary plumbing (green). If you have never worked with a building project, you'd be surprised how much space the ventilation takes up!*
+
+<br>
+<br>
+<br>
 
 ## Product design
 
-<div style="text-align: center;">
-  <img src="photos/LabVIEW.JPG" alt="LabVIEW" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    LabVIEW interface used for data acquisition in my master thesis. The same view screen is used for simultaneously controlling a wind tunnel traverse for moving around a probe, and logging the inputs from three hot-wire sensors on the probe used for measuring turbulence. LabVIEW doesn't allow for much customization with respect to aestetics in the design, this is purely functional. 
-  </p>
-</div>
+![LabVIEW Interface](photos/LabVIEW.JPG)
 
-<div style="text-align: center;">
-  <img src="photos/styrepanel_autonom-sykeseng.png" alt="LabVIEW" style="width: 100%; object-fit: cover; border-radius: 5px;" />
-  <p style="margin-top: 10px; margin-bottom: 100px; font-size: 14px; color: #666;">
-    A student project in which we were developing an autonomous hospital bed. The bed would be manned by a nurse or portier when containing a patient, and then be driving autonomously around when being moved between patients. When controlled manually, the interface would need to be intuitive because time is very limited for the nurses. 
-    This might look silly to the untrained eye, but we learned at least five lessons from this. For example, the turning buttons and the forward button were not possible to operate simultaneously when moving the bed in an ergonomical way in the first attempt, so in this prototype we have already rearranged all buttons and and added functions three times in 15 minutes, pretending to be rolling around with a patient. Moving around a bed like this might look fun for a child, the need for an ID-card reader or some other form of restriction was quickly uncovered.
-  </p>
-</div>
+*LabVIEW interface used for data acquisition in my master thesis. The same view screen is used for simultaneously controlling a wind tunnel traverse for moving around a probe, and logging the inputs from three hot-wire sensors on the probe used for measuring turbulence. LabVIEW doesn't allow for much customization with respect to aestetics in the design, this is purely functional.*
 
+<br>
+<br>
+<br>
+
+![Hospital bed control panel](photos/styrepanel_autonom-sykeseng.png)
+
+*A student project in which we were developing an autonomous hospital bed. The bed would be manned by a nurse or portier when containing a patient, and then be driving autonomously around when being moved between patients. When controlled manually, the interface would need to be intuitive because time is very limited for the nurses. This might look silly to the untrained eye, but we learned at least five lessons from this. For example, the turning buttons and the forward button were not possible to operate simultaneously when moving the bed in an ergonomical way in the first attempt, so in this prototype we have already rearranged all buttons and and added functions three times in 15 minutes, pretending to be rolling around with a patient. Moving around a bed like this might look fun for a child, the need for an ID-card reader or some other form of restriction was quickly uncovered.*
+
+<br>
+<br>
+<br>
 
 ### 🧰 Programming languages
 
